@@ -16,4 +16,5 @@ int main(int argc, char *argv[]) {
         int wynik = 5 + a + b + c + d+ e;
         cout<<wynik;
     }
+    return 0;
 }
